@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 user_input = input("What you gotta say? :")
 
 while user_input != "STOP":
